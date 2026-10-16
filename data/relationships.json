@@ -1,0 +1,107 @@
+[
+  {
+    "id": "L003",
+    "type": "parent_child",
+    "person_ids": [
+      "P005",
+      "P003"
+    ],
+    "claim_ids": [
+      "C006"
+    ],
+    "status": "testimony",
+    "limitations": "Reported family relationship; individual documentary proof pending. Marriage L011 is reported as a couple; shared-parent testimony alone would not prove a legal marriage.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "L004",
+    "type": "parent_child",
+    "person_ids": [
+      "P006",
+      "P003"
+    ],
+    "claim_ids": [
+      "C006"
+    ],
+    "status": "testimony",
+    "limitations": "Reported family relationship; individual documentary proof pending. Marriage L011 is reported as a couple; shared-parent testimony alone would not prove a legal marriage.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "L005",
+    "type": "parent_child",
+    "person_ids": [
+      "P005",
+      "P007"
+    ],
+    "claim_ids": [
+      "C007"
+    ],
+    "status": "testimony",
+    "limitations": "Reported family relationship; individual documentary proof pending. Marriage L011 is reported as a couple; shared-parent testimony alone would not prove a legal marriage.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "L006",
+    "type": "parent_child",
+    "person_ids": [
+      "P006",
+      "P007"
+    ],
+    "claim_ids": [
+      "C007"
+    ],
+    "status": "testimony",
+    "limitations": "Reported family relationship; individual documentary proof pending. Marriage L011 is reported as a couple; shared-parent testimony alone would not prove a legal marriage.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "L007",
+    "type": "parent_child",
+    "person_ids": [
+      "P005",
+      "P008"
+    ],
+    "claim_ids": [
+      "C008"
+    ],
+    "status": "testimony",
+    "limitations": "Reported family relationship; individual documentary proof pending. Marriage L011 is reported as a couple; shared-parent testimony alone would not prove a legal marriage.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "L008",
+    "type": "parent_child",
+    "person_ids": [
+      "P006",
+      "P008"
+    ],
+    "claim_ids": [
+      "C008"
+    ],
+    "status": "testimony",
+    "limitations": "Reported family relationship; individual documentary proof pending. Marriage L011 is reported as a couple; shared-parent testimony alone would not prove a legal marriage.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "L010",
+    "type": "marriage",
+    "person_ids": [
+      "P003",
+      "P004"
+    ],
+    "claim_ids": [
+      "C005"
+    ],
+    "status": "testimony",
+    "limitations": "Reported family relationship; individual documentary proof pending. Marriage L011 is reported as a couple; shared-parent testimony alone would not prove a legal marriage.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  }
+]

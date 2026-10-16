@@ -1,0 +1,170 @@
+[
+  {
+    "id": "C003",
+    "subject_ids": [
+      "P003"
+    ],
+    "text": "Gerald Andrew Cary reportedly lived 1914–1998 and was born in Hampstead.",
+    "status": "testimony",
+    "source_ids": [
+      "S001"
+    ],
+    "limitations": "Birth/death originals not examined.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C004",
+    "subject_ids": [
+      "P003"
+    ],
+    "text": "Reported birth-index entry: Gerald A. Cary, Jan–Mar 1914, Hampstead, mother’s maiden surname Day, volume 1a page 1082.",
+    "status": "described_record",
+    "source_ids": [
+      "S002"
+    ],
+    "limitations": "Index image/full entry pending; quarter is not exact birth date.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C005",
+    "subject_ids": [
+      "P003",
+      "P004"
+    ],
+    "text": "Gerald reportedly married Ellen E. Cleminson.",
+    "status": "testimony",
+    "source_ids": [
+      "S001"
+    ],
+    "limitations": "Original marriage entry and expansion of initial pending.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C006",
+    "subject_ids": [
+      "P003",
+      "P005",
+      "P006"
+    ],
+    "text": "Gerald’s parents are identified by family testimony as Robert Cary and Alice Day.",
+    "status": "testimony",
+    "source_ids": [
+      "S001",
+      "S002"
+    ],
+    "limitations": "Full birth entry required; Day alone does not identify both parents.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C007",
+    "subject_ids": [
+      "P007",
+      "P005",
+      "P006",
+      "P003"
+    ],
+    "text": "Family testimony identifies Sir Robert as Robert and Alice’s son and Gerald’s brother.",
+    "status": "testimony",
+    "source_ids": [
+      "S001",
+      "S003",
+      "S016"
+    ],
+    "limitations": "The public derivative supports Sir Robert’s parentage but not by itself Gerald’s kinship; original links pending.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C008",
+    "subject_ids": [
+      "P008",
+      "P005",
+      "P006"
+    ],
+    "text": "Family correspondence identifies Doris, reportedly born 1903, as Robert and Alice’s daughter.",
+    "status": "testimony",
+    "source_ids": [
+      "S003"
+    ],
+    "limitations": "Private correspondence metadata only here; original birth/parentage records needed.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C011",
+    "subject_ids": [
+      "P005"
+    ],
+    "text": "Robert is reported approximately 1872–1958.",
+    "status": "testimony",
+    "source_ids": [
+      "S001",
+      "S016"
+    ],
+    "limitations": "Derivative gives more precise dates; identity and originals pending. Approximate dates retained.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C012",
+    "subject_ids": [
+      "P006"
+    ],
+    "text": "Alice is reported approximately 1879–1919.",
+    "status": "testimony",
+    "source_ids": [
+      "S001",
+      "S016"
+    ],
+    "limitations": "Exact vital evidence pending.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C013",
+    "subject_ids": [
+      "P007"
+    ],
+    "text": "Sir Robert is reported 1898–1979; baronetcy reportedly created in 1955.",
+    "status": "testimony",
+    "source_ids": [
+      "S001",
+      "S016"
+    ],
+    "limitations": "Exact dates/title particulars require authoritative record checks; this does not establish title entitlement.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C041",
+    "subject_ids": [
+      "P008"
+    ],
+    "text": "Memorial prints Doris Winifred Houston, née Cary, born 20.8.1903.",
+    "status": "documentary_statement",
+    "source_ids": [
+      "S085"
+    ],
+    "limitations": "Examined private memorial reproduction; civil confirmation pending.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "C042",
+    "subject_ids": [
+      "P008"
+    ],
+    "text": "Memorial prints reborn 24.12.1985, interpreted as death commemoration.",
+    "status": "conditional",
+    "source_ids": [
+      "S085"
+    ],
+    "limitations": "Original wording retained; death/funeral particulars not independently verified.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  }
+]
