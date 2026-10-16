@@ -1,0 +1,67 @@
+[
+  {
+    "id": "P003",
+    "name": "Gerald Andrew Cary",
+    "living": false,
+    "claim_ids": [
+      "C003",
+      "C004",
+      "C006"
+    ],
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "P004",
+    "name": "Ellen E. Cleminson",
+    "living": false,
+    "claim_ids": [
+      "C005"
+    ],
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "P005",
+    "name": "Robert Cary",
+    "living": false,
+    "claim_ids": [
+      "C011"
+    ],
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "P006",
+    "name": "Alice Day",
+    "living": false,
+    "claim_ids": [
+      "C012"
+    ],
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "P007",
+    "name": "Sir Robert Archibald Cary",
+    "living": false,
+    "claim_ids": [
+      "C007",
+      "C013"
+    ],
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "P008",
+    "name": "Doris Winifred Cary / Houston",
+    "living": false,
+    "claim_ids": [
+      "C008",
+      "C041",
+      "C042"
+    ],
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  }
+]

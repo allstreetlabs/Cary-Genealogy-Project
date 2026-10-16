@@ -1,0 +1,72 @@
+[
+  {
+    "id": "S001",
+    "title": "Family research briefing",
+    "type": "testimony",
+    "access": "withheld",
+    "url": null,
+    "limitations": "Only redacted source metadata public; no living-person identifiers or correspondence.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "S002",
+    "title": "Reported Gerald A. Cary birth-index reference, Hampstead 1914, 1a/1082",
+    "type": "index",
+    "access": "described_unexamined",
+    "url": null,
+    "limitations": "Citation supplied; original index/full registration not inspected.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "S003",
+    "title": "Family correspondence collection, April 2018",
+    "type": "correspondence",
+    "access": "withheld",
+    "url": null,
+    "limitations": "HQ partly examined derivatives; full messages/headers and living-person details withheld.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "S016",
+    "title": "Darryl Lundy, The Peerage p20703, relevant Cary entries",
+    "type": "derivative_genealogy",
+    "access": "examined_publication",
+    "url": "https://www.thepeerage.com/p20703.htm",
+    "limitations": "Examined by specialist; HQ reviewed report. Burke 2003 I p.710 cited but original unexamined; conflicts remain.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "S017",
+    "title": "Darryl Lundy, The Peerage p20701, relevant Cary entries",
+    "type": "derivative_genealogy",
+    "access": "examined_publication",
+    "url": "https://www.thepeerage.com/p20701.htm",
+    "limitations": "Specialist-reported examination; not a proven bridge to the modern family.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "S018",
+    "title": "Darryl Lundy, The Peerage p20702, relevant Cary entries",
+    "type": "derivative_genealogy",
+    "access": "examined_publication",
+    "url": "https://www.thepeerage.com/p20702.htm",
+    "limitations": "Specialist-reported examination; underlying records pending.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  },
+  {
+    "id": "S085",
+    "title": "Privately held memorial reproduction: Doris Winifred Houston née Cary",
+    "type": "memorial",
+    "access": "withheld",
+    "url": null,
+    "limitations": "Printed wording examined by HQ; image withheld pending publication rights; civil confirmation pending.",
+    "visibility": "public",
+    "publication_basis": "Owner-authorized curated factual summary of deceased family research; underlying private evidence withheld."
+  }
+]
